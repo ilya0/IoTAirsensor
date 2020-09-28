@@ -11,8 +11,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
  
 String apiKey = "PAJ1SOYRB4PRDEIA"; // Enter your Write API key from ThingSpeak
-const char *ssid = "series of tubes";     // replace with your wifi ssid and wpa2 key
-const char *pass = "thepasswordisactuallyone1000!";
+const char *ssid = "wifiname";     // replace with your wifi ssid and wpa2 key
+const char *pass = "wifipassword";
 const char* server = "api.thingspeak.com";
  
 WiFiClient client;
