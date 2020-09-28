@@ -6,5 +6,5 @@ This is a project involving the esp8266 and mq135 sensor inorder to create a mod
 Modules needed for the project include the 
 
 
-MQ135 
-![]()
+
+![MQ135](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/MQ135-ESP8266.jpg)
