@@ -49,7 +49,6 @@ To setup the Thingspeak Server, visit https://thingspeak.com/. Create an account
 
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/thingspeak.jpg)
 
- [Code Credit Mr.Alam](https://how2electronics.com/iot-air-quality-index-monitoring-esp8266/)
  
 ## Programming ESP32
 
