@@ -12,8 +12,12 @@ Modules needed for this project and where they can be bought:
 - [Connecting wires](https://amzn.to/2L8Xc1p)
 
 
+## Air Quality Index
+The AQI is an index for reporting daily air quality. It tells you how clean or polluted your air is and how it may affect your health.
 
-Wiring will look like this
+
+
+The following diagrams are of the lcd screen
 
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/I2C-OLED-Display.jpg)
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/MQ135.png)
@@ -21,7 +25,8 @@ Wiring will look like this
 
 
 
-Wiring for the project will go as such
+In order to get the project to work wiring need to be connected as per these diagrams
+
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/MQ135-ESP8266.jpg)
 
 
