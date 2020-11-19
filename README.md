@@ -47,7 +47,7 @@ ThingSpeak is an open-source Internet of Things application and API to store and
 
 To setup the Thingspeak Server, visit https://thingspeak.com/. Create an account or simply sign in if you created the account earlier. Then create a new channel.
 
-![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/thingspeak.jpg)
+![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/Thingspeak.jpg)
 
  
 ## Programming ESP32
