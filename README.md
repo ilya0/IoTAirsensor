@@ -12,6 +12,8 @@ Modules needed for this project and where they can be bought:
 - [Connecting wires](https://amzn.to/2L8Xc1p)
 
 
+
+
 ## Air Quality Index
 The AQI is an index for reporting daily air quality. It tells you how clean or polluted your air is and how it may affect your health. The chart below mentions the levels of acceptability for the types of air quality.
 
@@ -29,6 +31,8 @@ The MQ-135 gas sensor senses the gases like ammonia nitrogen, oxygen, alcohols, 
 
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/MQ135.png)
 
+ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. The ESP32 series employs a Tensilica Xtensa LX6 microprocessor in both dual-core and single-core variations and includes built-in antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power-management modules. ESP32 is created and developed by Espressif Systems, a Shanghai-based Chinese company, and is manufactured by TSMC using their 40 nm process.[2] It is a successor to the ESP8266 microcontroller.
+
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/esp8266%20pinout.png)
 
 ## Assembly
@@ -37,5 +41,24 @@ Now let us assemble the hardware and do the coding for the great IoT project. We
 
 ![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/MQ135-ESP8266.jpg)
 
+## Setting up Thingspeak
+
+ThingSpeak is an open-source Internet of Things application and API to store and retrieve data from things using the HTTP and MQTT protocol over the Internet or via a Local Area Network. Thingspeak enables you to collect, store, analyze, visualize, and act on data from sensors.
+
+To setup the Thingspeak Server, visit https://thingspeak.com/. Create an account or simply sign in if you created the account earlier. Then create a new channel.
+
+![](https://github.com/ilya0/IoTAirsensor/blob/master/Wiring%20images/thingspeak.jpg)
 
  [Code Credit Mr.Alam](https://how2electronics.com/iot-air-quality-index-monitoring-esp8266/)
+ 
+## Programming ESP32
+
+Programming of the esp32 is a relatively simple affair, although requires proper setup. Although too long to go into details here, this link will go into depth about how to get the Arduino software IDE setup
+
+ [Setting up the Arduino IDE](https://circuitdigest.com/microcontroller-projects/programming-esp32-with-arduino-ide)
+ 
+ 
+## Credits
+
+
+ [Project Credits go to Mr.Alam ](https://how2electronics.com/iot-air-quality-index-monitoring-esp8266/)
